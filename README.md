@@ -1,1 +1,1 @@
-4팀 stateManagement입니다!
+4팀 stateManagement(상태관리)입니다!
